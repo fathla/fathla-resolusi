@@ -2,3 +2,4 @@ FATHLA resolusi
 -Konsisten untuk belajar c++
 -Konsisten untuk belajar web-development
 -Belajar SQL
+-Mengikuti pelatihan yang berhubungan dengan program
