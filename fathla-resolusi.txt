@@ -3,3 +3,4 @@ FATHLA resolusi
 -Konsisten untuk belajar web-development
 -Belajar SQL
 -Mengikuti pelatihan yang berhubungan dengan program
+-membuat portofolio
